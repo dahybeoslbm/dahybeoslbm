@@ -100,7 +100,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vandahy&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=8b5cf6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=a78bfa&sideNums=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dahybeoslbm&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=8b5cf6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&currStreakNum=a78bfa&sideNums=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -110,7 +110,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vandahy&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dahybeoslbm&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -120,7 +120,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandahy&theme=high-contrast&bg_color=0d0d1a&color=8b5cf6&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dahybeoslbm&theme=high-contrast&bg_color=0d0d1a&color=8b5cf6&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
