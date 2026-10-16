@@ -1,4 +1,4 @@
-<a href="https://github.com/vandahy">
+<a href="https://github.com/dahybeoslbm">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=header&text=Van%20Dahy&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 </a>
 
@@ -16,17 +16,17 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-vandahy77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d)](mailto:vandahy77@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-vandahy-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/vandahy)
+[![GitHub](https://img.shields.io/badge/GitHub-dahybeoslbm-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/dahybeoslbm)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vandahy&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dahybeoslbm&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/vandahy?style=for-the-badge&color=7c3aed&labelColor=4c1d95&label=FOLLOWERS)
+[![Followers](https://img.shields.io/github/followers/dahybeoslbm?style=for-the-badge&color=7c3aed&labelColor=4c1d95&label=FOLLOWERS)](https://github.com/dahybeoslbm?tab=followers)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/vandahy?style=for-the-badge&color=8b5cf6&labelColor=4c1d95&label=STARS)
+[![Stars](https://img.shields.io/github/stars/dahybeoslbm?style=for-the-badge&color=8b5cf6&labelColor=4c1d95&label=STARS)](https://github.com/dahybeoslbm?tab=repositories)
 
 </div>
 
@@ -92,7 +92,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dahybeoslbm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dahybeoslbm&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&count_private=true&include_all_commits=true" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahybeoslbm&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=c4b5fd&langs_count=8" />
 
@@ -110,7 +110,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dahybeoslbm&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=dahybeoslbm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -120,7 +120,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dahybeoslbm&theme=high-contrast&bg_color=0d0d1a&color=8b5cf6&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=dahybeoslbm&theme=high-contrast&bg_color=0d0d1a&color=8b5cf6&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -148,7 +148,7 @@ Working as a PHP Developer contributing to internal systems and product developm
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vandahy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e3a5f)](https://www.linkedin.com/in/vandahy/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-vandahy-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/vandahy)
+[![GitHub](https://img.shields.io/badge/GitHub-dahybeoslbm-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/dahybeoslbm)
 
 </div>
 
